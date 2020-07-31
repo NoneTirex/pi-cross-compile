@@ -9,3 +9,4 @@ ENV BUILD_FOLDER /build
 WORKDIR ${BUILD_FOLDER}
 
 CMD ["/bin/bash"]
+
